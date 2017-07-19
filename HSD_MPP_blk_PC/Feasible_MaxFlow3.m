@@ -1,5 +1,6 @@
 % This script constructs a feasible Maximum Flows Problem
-% With capacities as non-negative polynomials,
+% With capacities as non-negative polynomials in
+% Chebyshev basis over interval [-1,1],
 % From the Network given in excel sheet and 
 % then constructs the Dual problem which is a MCO
 % Then this problem can be solved by MCO or CVX
